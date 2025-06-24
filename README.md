@@ -26,19 +26,23 @@ The dashboard helps SOC analysts:
 ---
 
 🧪 Tech Stack
-React + TypeScript – Component-based architecture
 
-Vite – Blazing fast dev environment
+- React + TypeScript – Component-based architecture
 
-Tailwind CSS – Utility-first modern styling
+- Vite – Blazing fast dev environment
 
-AWS Simulated Data – (GuardDuty/CloudTrail assumed)
+- Tailwind CSS – Utility-first modern styling
+
+- AWS Simulated Data – (GuardDuty/CloudTrail assumed)
+
+---
 
 💼 Use Cases
-Demonstrate cloud security awareness
 
-Showcase frontend engineering for incident response
+- Demonstrate cloud security awareness
 
-Practice DevSecOps/Dashboard building
+- Showcase frontend engineering for incident response
 
-Portfolio project for Cybersecurity, Cloud, or Software roles
+- Practice DevSecOps/Dashboard building
+
+- Portfolio project for Cybersecurity, Cloud, or Software roles
