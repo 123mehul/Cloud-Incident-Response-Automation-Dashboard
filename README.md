@@ -14,6 +14,11 @@ The dashboard helps SOC analysts:
 - Analyze threat trends by severity and type
 
 ---
+## 📸 Screenshot
+
+![Dashboard](output.png)
+
+---
 
 ## 🚀 Features
 
